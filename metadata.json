@@ -1,0 +1,7 @@
+{
+  "name": "Syed Voice Assistant",
+  "description": "Syed: A real-time, voice-first AI assistant optimized for natural conversation flow.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
